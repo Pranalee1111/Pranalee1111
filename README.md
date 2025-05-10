@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/pranalee1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pranalee1111" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranalee-nanaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranalee-nanaware" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@pranaleenanaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pranaleenanaware" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/pranaleenanaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pranaleenanaware" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/pranalee_11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pranalee_11" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/pranaleen21ug" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pranaleen21ug" height="30" width="40" /></a>
 </p>
