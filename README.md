@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Data Science, Angular, Python**
 - 💬 Ask me about **Java, SpringBoot**
 - 📫 How to reach me **pranaleenanaware@gmail.com**
-- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <a href="https://linkedin.com/in/pranalee-nanaware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranalee-nanaware" height="30" width="40" /></a>
