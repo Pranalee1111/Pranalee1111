@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranalee Nanaware</h1>
-<h3 align="center">Java & Backend Developer | Fresher</h3>
+<h3 align="center">Java & Backend Developer | Spring Boot | Microservices | Published Researcher | AISSMS</h3>
 
 ---
 
