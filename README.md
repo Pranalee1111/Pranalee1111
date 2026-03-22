@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pranalee Nanaware</h1>
-<h3 align="center">Java & Backend Developer | Spring Boot | Microservices | Published Researcher | AISSMS</h3>
+<h3 align="center"> Java Developer | Software Engineer </h3>
 
 ---
 
 ### 👩‍💻 About Me
 - 🎓 B.E. Information Technology graduate
-- 💡 Strong foundation in **Java, Spring Boot, JDBC**
+- 💡 Strong foundation in **Java, Spring Boot, JDBC, Hibernate, REST APIs, MySQL**
 - 🌱 Actively upskilling in **Backend Development, Data Science & Python**
 - 💬 Ask me about **Java, Spring Boot, Core Backend Concepts**
 - 📫 Reach me at **pranaleenanaware@gmail.com**
@@ -29,16 +29,16 @@
 
 ### 🛠 Tech Stack
 **Languages:** Java, Python, C, C++  
-**Backend:** Spring Boot, JDBC  
-**Frontend:** HTML, CSS, React, Bootstrap  
+**Backend:** Spring Boot, Hibernate, REST APIS  
+**Frontend:** HTML, CSS, Bootstrap, Javascript, React  
 **Database:** MySQL, PostgreSQL, MongoDB  
 **Tools & IDEs:** Git, GitHub, Postman, IntelliJ IDEA, VS Code  
-**Cloud:** AWS  
+**Cloud:** AWS Cloud
 
 ---
 
 ### 📌 Featured Projects
-- 🔹 **SARATHI** – AI-based Navigation Assistant for People with Visual Impairments  
+- 🔹 **SARATHI** – AI-based Navigation Assistant for People with Visual Impairments | Published in IEEE  
 - 🔹 **Mental Health Chatbot** – Conversational mental health support system  
 - 🔹 **Online Voting System** – Secure voting application using JSP & Servlets  
 
