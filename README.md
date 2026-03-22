@@ -28,12 +28,13 @@
 ---
 
 ### 🛠 Tech Stack
-**Languages:** Java, Python, C, C++  
+**Languages:** Java, Python for Data Analytics, C, C++  
 **Backend:** Spring Boot, Hibernate, REST APIS  
 **Frontend:** HTML, CSS, Bootstrap, Javascript, React  
 **Database:** MySQL, PostgreSQL, MongoDB  
 **Tools & IDEs:** Git, GitHub, Postman, IntelliJ IDEA, VS Code  
 **Cloud:** AWS Cloud
+**Data Libraries:** pandas, numpy, Matplotlib, seaborn, 
 
 ---
 
